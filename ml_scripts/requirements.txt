@@ -1,0 +1,24 @@
+# Python ML Dependencies
+# Install with: pip install -r requirements.txt
+
+# Deep Learning
+tensorflow==2.15.0
+keras==2.15.0
+
+# Machine Learning
+scikit-learn==1.4.0
+scipy==1.12.0
+
+# Data Processing
+numpy==1.26.3
+pandas==2.2.0
+
+# Optimization
+ortools==9.8.3296
+
+# Image Processing
+opencv-python==4.9.0.80
+Pillow==10.2.0
+
+# NLP (for text similarity)
+nltk==3.8.1
