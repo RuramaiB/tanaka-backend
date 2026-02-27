@@ -28,7 +28,7 @@ import java.util.UUID;
 public class ImageClassificationService {
 
     private static final Logger logger = LoggerFactory.getLogger(ImageClassificationService.class);
-    private static final String PYTHON_SCRIPT_PATH = "ml_scripts/classify_image.py";
+    private static final String PYTHON_SCRIPT_PATH = "ml_scripts/classify_image_yolo.py";
 
     @Autowired
     private PythonExecutorService pythonExecutor;

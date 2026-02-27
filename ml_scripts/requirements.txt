@@ -4,6 +4,8 @@
 # Deep Learning
 tensorflow==2.15.0
 keras==2.15.0
+ultralytics==8.1.0  # Added for YOLOv8
+kaggle==1.6.3      # Added for dataset download
 
 # Machine Learning
 scikit-learn==1.4.0
